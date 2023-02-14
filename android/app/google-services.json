@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "942703787704",
+    "project_id": "surfistas",
+    "storage_bucket": "surfistas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942703787704:android:5da78fbae3559d9b55fe4d",
+        "android_client_info": {
+          "package_name": "com.example.photosync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942703787704-usi8fo8iful4knags3dj2qaccecuvbkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photosync",
+            "certificate_hash": "09fdee7a6a8fdbe12230e5dde1b6ddfbe7216df1"
+          }
+        },
+        {
+          "client_id": "942703787704-auchno526qo4p58nj2uf8qdl8e38j1nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-W8-K_fJB80vPXECcF1T3uoE4eboHVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942703787704-4u0fh8fgjrb82jd2u8qj876vufp6ngfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942703787704-fsfonb0div2iqm03lv61rpqd1m9frjis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pro.ondas.photosync"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942703787704:android:20e2362abe41d02055fe4d",
+        "android_client_info": {
+          "package_name": "pro.ondas.photosync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942703787704-o8rvhnjm1k6bj02l43f13kh2d84v5d9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro.ondas.photosync",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "942703787704-auchno526qo4p58nj2uf8qdl8e38j1nm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs-W8-K_fJB80vPXECcF1T3uoE4eboHVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942703787704-4u0fh8fgjrb82jd2u8qj876vufp6ngfg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "942703787704-fsfonb0div2iqm03lv61rpqd1m9frjis.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "pro.ondas.photosync"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
